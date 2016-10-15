@@ -1,0 +1,15 @@
+*.suo
+*.exe
+*.lib
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.ncb
+*.user
+*.manifest
+*.embed.manifest
+*.embed.manifest.res
+mt.dep
+BuildLog.htm*
+
