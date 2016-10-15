@@ -6,7 +6,7 @@ int main()
    printf("Hello, World!\n");
    {
       const double pi = 3.14;
-      printf("Pi = %f\n", pi);
+      printf("Pi = %.10f\n", pi);
    }
 }
 
